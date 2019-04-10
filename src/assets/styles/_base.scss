@@ -1,0 +1,19 @@
+body {
+  font-family: $main-font;
+  font-weight: $main-weight;
+  background: $background;
+}
+
+h3 {
+  font-size: 1.4em;
+  line-height: 1rem;
+  font-weight: 100;
+  color: $light-text;
+}
+
+button {
+  font-size: 1.5rem;
+  padding: $spacing 2 * $spacing;
+  background: $accent;
+  color: $white;
+}
